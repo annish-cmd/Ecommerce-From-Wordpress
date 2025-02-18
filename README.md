@@ -1,4 +1,3 @@
-![photo_6170273824617120693_w](https://github.com/user-attachments/assets/d8029c4c-d90d-4667-912d-22bd46ff914e)---
 
 # **🛍️ E-Commerce Website (WordPress)**  
 
