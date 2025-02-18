@@ -9,10 +9,6 @@
 This project is a **WordPress-powered eCommerce platform**, designed to provide an intuitive and engaging online shopping experience. 
 
 
----
-
----
-
 ## 📸 **Screenshots**  
 ![photo_6170273824617120692_w](https://github.com/user-attachments/assets/39d0be64-260b-4457-842c-7302ef6fa12f)
 <br>
